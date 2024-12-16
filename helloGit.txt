@@ -1,1 +1,2 @@
 Helló, ez az első GitHub fájlom!
+Második commit és push.
